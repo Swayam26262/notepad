@@ -7,7 +7,7 @@ from tkinter import filedialog,simpledialog
 from tkinter.scrolledtext import ScrolledText
 
 root = Tk()
-root.title('DataFlair Notepad')
+root.title('Notepad')
 root.resizable(0, 0)
 
 #creating scrollable notepad window
