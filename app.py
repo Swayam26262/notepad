@@ -90,7 +90,7 @@ def cmdTimeDate():     #edit menu Time/Date option
     label = messagebox.showinfo("Time/Date", dtString)
 
 def cmdAbout():     #help menu About option
-    label = messagebox.showinfo("About Notepad", "Notepad by - \nDataFlair")
+    label = messagebox.showinfo("About Notepad", "Notepad by - \Swayam Patil")
 
 #notepad menu items
 notepadMenu = Menu(root)
